@@ -3,6 +3,7 @@
     "express": "^4.17.2"
   },
   "scripts": {
+    "test": "jest",
     "start": "node server.js"
   },
   "name": "zookeepr",
